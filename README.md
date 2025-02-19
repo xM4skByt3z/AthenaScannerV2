@@ -34,7 +34,7 @@ python3 athenascanner.py
 ---
 
 ## 🎥 Video   
-![Image](https://github.com/user-attachments/assets/ec2329c2-7074-41c7-9fbf-73d15d3207f6)
+![Image](https://github.com/user-attachments/assets/24504fc5-1200-459f-8329-8cd7a83093f3)
 ## https://www.youtube.com/watch?v=5_sdjzIlXmc
 ## 📄 License  
 
