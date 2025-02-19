@@ -272,7 +272,7 @@ Operating System: Linux
 ✅ The service {service} is not vulnerable (version not specified).
 """
 
-    api_key = "YOUR API KEY!" #ADD YOUR API KEY HERE!!
+    api_key = "YOUR API KEY!" #ADD YOUR Germini API KEY HERE!!
     url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key={api_key}"
     headers = {'Content-Type': 'application/json'}
     data = {
