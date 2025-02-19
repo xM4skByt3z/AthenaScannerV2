@@ -26,8 +26,8 @@ An advanced tool for **security analysis**, **network scanning**, and **threat d
 ## 📦 Installation  
 
 ```bash
-git clone https://github.com/seuusuario/network-security-toolkit.git
-cd network-security-toolkit
+git clone https://github.com/xM4skByt3z/AthenaScanner.git
+cd AthenaScanner
 pip install -r requirements.txt
 python3 athenascanner.py
 ```
